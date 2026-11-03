@@ -1,3 +1,5 @@
 /*.tmp
 _pycache_/
 .pytest_cache/
+.coverage
+htmlcov/
